@@ -1,0 +1,439 @@
+{
+    "AllInOne":"AllInOne",
+    "CONFIGURE_THE_ITEM":"CONFIGURE THE ITEM",
+    "continue_button_title_SubCategoryDetail":"CONTINUE",
+    "continue_button_title_LocationChoose":"CONTINUE",
+    "DONE":"DONE",
+
+    "CONFIRM_THE_SERVICE_TITLE_OF_PLACEORDER":"CONFIRM THE SERVICE",
+    "Describe_the_requirements":"Describe your requirement",
+    "Describe_the_requirements_notes":"Describe your problem clearly,so service provider understand your problem and give you best offer",
+    "Description_And_any_Note":"Describe the problem you have and if any notes",
+    "Schedule_the_Time":"Schedule the time",
+    "Choose_the_photo_if_any":"Choose the photo if any",
+    "PLACE_ORDER":"CONFIRM",
+    "Please_choose_the_schedule_date_and_time":"Please choose the schedule date and time",
+    "Brand_Message":"Everything You Need For Everywhere",
+    "Mobile_Number":"Mobile Number",
+    "GO":"GO",
+    "Search_placeorder":"Search",
+    "No_Result__title_for_serach_result":"No Result",
+    "The_word_you_given_not_matching_any_service__description_for_search_result":"The word you given not matching any service",
+    "Loading_Your_Location__location_choose_loading_title":"Loading Your Location",
+    "We_need_the_location_to_provide_best_vendors_very_near_to_you__location_choose_loading_description":"We need the location to provide best vendors very near to you",
+    "Retry_or_Enable_GPS_Button_title":"Retry or Enable GPS",
+    "Phone_GPS_Not_Enabled_You_have_to_Enable_the_GPS_for_our_App__gps_not_avalabe_discription":"Phone GPS Not Enabled ,You have to Enable the GPS for our App",
+    "GPS_Not_Found__title":"GPS Not Found",
+    "Retry_or_Enable_Location__button_Ttile":"Retry or Enable Location",
+    "No_Location__title":"No Location",
+    "Location_Not_Enabled_You_have_to_Enable_Location_for_our_App":"Location Not Enabled ,You have to Enable Location for our App",
+    "Please_enable_location_services_on_your_device__alert":"Please enable location services on your device",
+    "Please_on_the_gps_of_the_phone__alert":"Please on the gps of the phone",
+    "Without_the_loaction_you_cant_continue__alert":"Without the loaction you can't continue",
+    "Click_here_to_choose_the_Dat_and_Time":"Click here to choose the Date and Time",
+    "conform__button_title_for_orderplace":"Conform",
+    "Please_choose_the_slot_alert":"Please choose the slot",
+    "Please_choose_the_date__alert_for_slot_date":"Please choose the date",
+    "Hide_location_from_provider_upto_reviwing_and_accepting_the_offer__label":"Hide location from provider upto reviwing and accepting the offer",
+    "Are_you_sure_to_place_this_order__alert_conform_message":"Are you sure to place this order ?",
+    "Yes__orderplace_conform_alert":"Yes",
+    "No__orderplace_conform_alert":"No",
+    "You_have_to_login_first__alert_from_orderplace":"You have to login first",
+
+
+
+
+
+
+
+
+
+
+
+    "camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission":"camera permission not allowed ! can we open the setting to allow the camera permission ?",
+    "Yes__camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission":"Yes",
+    "No__camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission":"No",
+    "Please_allow_permission_to_the_camera__alert":"Please allow permission to the camera",
+    "Microphone_permission_not_allowed_can_we_open_the_setting_to_allow_the_Microphone_permission_alert":"Microphone permission not allowed ! can we open the setting to allow the Microphone permission ?",
+    "Yes_Microphone_permission_not_allowed_can_we_open_the_setting_to_allow_the_Microphone_permission_alert":"Yes",
+    "No_Microphone_permission_not_allowed_can_we_open_the_setting_to_allow_the_Microphone_permission_alert":"No",
+    "please_allow_the_camera_permission__tost":"please allow the camera permission",
+    "Gallery_permission_not_allowed_can_we_open_the_setting_to_allow_the_gallery_permission__alert":"Gallery permission not allowed ! can we open the setting to allow the gallery permission ?",
+    "Yes__Gallery_permission_not_allowed_can_we_open_the_setting_to_allow_the_gallery_permission__alert":"Yes",
+    "No__Gallery_permission_not_allowed_can_we_open_the_setting_to_allow_the_gallery_permission__alert":"No",
+    "Use_Gallery":"Use Gallery",
+    "please_allow_permission_to_the_Gallery__tost":"please allow permission to the Gallery",
+    "camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission__alert":"camera permission not allowed ! can we open the setting to allow the camera permission ?",
+    "Yes__camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission__alert":"Yes",
+    "No__camera_permission_not_allowed_can_we_open_the_setting_to_allow_the_camera_permission__alert":"No",
+    "please_allow_permission_to_the_camera__tost":"please allow permission to the camera ",
+    "Use_Camera":"Use Camera",
+    "Select_the_image_source":"Select the image source",
+    "We_are_not_working_on_this_day_Please_choose_any_other_date_tost":"We are not working on this day,Please choose any other date",
+
+
+
+
+
+
+
+
+
+    "No_Data__title_of_Order_list_empty":"No Data",
+    "You_dont_have_any_order__description_of_Order_list_empty":"You dont have any order",
+    "Completed__order_list_tab_title":"Completed",
+    "Active__order_list_tab_title":"Active",
+    "My_Orders__order_list_page_title":"My Orders",
+    "Cancel_Order__button_Title":"Cancel Order",
+    "Offers__button_Title":"Offers",
+    "Make_as_Complete__button_Title":"Make as Complete",
+    "IN_REVIEW_order_status":"IN REVIEW",
+    "OPEN_order_status":"OPEN",
+    "IN_PROGRESS_order_status":"IN PROGRESS",
+    "COMPLETE_order_status":"COMPLETE",
+    "CANCELLED_order_status":"CANCELLED",
+    "Order Number__lable":"Order Number",
+
+
+
+
+
+
+
+
+    "No_Data__title_of_Offer_list_empty":"No Data",
+    "You dont have any offers__description_of_Offer_list_empty":"You dont have any offers",
+    "Favorites tab title":"Favorites",
+    "Offers tab title":"Offers",
+    "My Offers page title":"My Offers",
+    "Upto accept the offer location won't be visible for providers":"Upto accept the offer location won't be visible for providers",
+    "This location will be visible to providers":"This location will be visible to providers",
+    "SHOW ON MAP__button_title":"SHOW ON MAP",
+    "DROPPOFF_button_title":"DROPPOFF",
+    "SHOW ON MAP_button_title":"SHOW ON MAP",
+    "PICKUP_title":"PICKUP",
+    "UPLOADED FILES__order_View":"UPLOADED FILES",
+    "ACCEPTED OFFER__title_order_view":"ACCEPTED OFFER",
+    "SCHEDULE_title_order_view":"SCHEDULE",
+
+
+
+
+
+
+
+    "Chat_button_title":"Chat",
+    "Accept Offers_button_title":"Accept Offers",
+    "Warranty __label":"Warranty",
+    "Free __offer_label":"Free",
+    "Visit Cost __offer_label":"Visit Cost",
+    "Offer Price __offer_label":"Offer Price",
+    "Est.Time __offer_label":"Est.Time",
+    "Visit __offer_label":"Visit",
+    "Final Offer __offer_label":"Final Offer",
+    "COMPANY __offer_label":"COMPANY",
+    "INDIVIDUAL __offer_label":"INDIVIDUAL",
+
+
+
+    "IMMEDIATELY __offer_label_for_estTime":"IMMEDIATELY",
+    "HOURS __offer_label_for_estTime":"HOURS",
+    "DAYS __offer_label_for_estTime":"DAYS",
+    "WEEKS __offer_label_for_estTime":"WEEKS",
+    "MONTHS __offer_label_for_estTime":"MONTHS",
+    "No Waranty_label":"No Waranty",
+
+    "Resone order_cancel_label":"Resone",
+    "Resone for Cancel order_cancel_label_title":"Resone for Cancel",
+    "CANCEL ORDER order_cancel_label_title":"CANCEL ORDER",
+    "Are you sure to cancel this order ?":"Are you sure to cancel this order ?",
+    "Are you sure to cancel this order ? Yes":"Yes",
+    "Are you sure to cancel this order ? No":"No",
+    "Service Provider is ineiligible_cancel_resone":"Service Provider is ineiligible",
+    "Servie Provider didn't respect time_cancel_resone":"Servie Provider didn't respect time",
+    "Service cost is not suitable_cancel_resone":"Service cost is not suitable",
+    "I have maintained through another provider_cancel_resone":"I have maintained through another provider",
+    "I will request the service another time_cancel_resone":"I will request the service another time",
+    "Others_cancel_resone":"Others",
+    "CANCEL ORDER__main_button_title":"CANCEL ORDER",
+
+
+
+
+
+
+    "This vendor not having any rating yet_discription":"This vendor not having any rating yet",
+    "No Rating Yet_title":"No Rating Yet",
+    "Gallery_Button":"Gallery",
+    "Total Service_label":"Total Service",
+    "Reviews_page_Title":"Reviews",
+
+
+
+
+
+
+    "Settings_page_title":"Settings",
+    "Change Language_menu":"Change Language",
+    "Logout_menu":"Logout",
+    "Login_menu":"Login",
+
+    "successfully logged out_tost":"successfully logged out",
+    "Are you sure to logout ?":"Are you sure to logout ?",
+    "Are you sure to logout ? Yes":"Yes",
+    "Are you sure to logout ? No":"No",
+
+
+
+
+    "LANGUAGE_page_title":"LANGUAGE",
+    "Select your language to countinue":"Select your language to countinue",
+
+
+
+
+
+
+    "Please enter a valid mobile number_login":"Please enter a valid mobile number",
+    "Verify_button_otp":"Verify",
+    "Please enter proper OTP_tost":"Please enter proper OTP",
+    "Please enter the OTP which you recived on sms the you can change your password on next step":"Please enter the OTP which you recived on sms the you can change your password on next step",
+
+
+
+"Are you sure to accept this offer ?":"Are you sure to accept this offer ?",
+"Are you sure to accept this offer ? Yes":"Yes",
+"Are you sure to accept this offer ? No":"No",
+
+
+
+
+
+"Chat_page_title":"Chat",
+"Send a message_placeholder":"Send a message..",
+
+
+"COMPLETE_page_main_button":"COMPLETE",
+"Your Review_placeholder":"Your Review",
+"rating_page_description":"A simple yet fully customizable rating bar for flutter which also include a rating bar indicator",
+"Make Review_title":"Make Review_title",
+"finish_order_page_title":"Finish Order",
+"Really its fnish teh work ?":"Really its fnish teh work ?",
+"Really its fnish teh work ? Yes":"Yes",
+"Really its fnish teh work ? No":"No",
+
+
+
+
+"PHOTO_image_view":"PHOTO",
+"Work Photo_OF_vendor":"Work Photo",
+"View this provider Work gallery":"View this provider Work gallery",
+"Work Gallery_naavigation_title":"Work Gallery",
+"VIDEO_view":"VIDEO",
+
+
+
+"UPDATE_app":"UPDATE",
+"No Internet !!!":"No Internet !!!",
+"Your not connected to the internet.Make sure your wifi is on Airplain mod is off.":"Your not connected to the internet.Make sure your wifi is on Airplain mod is off.",
+
+"Order Number_placeorder_search":"Order Number",
+"Search_empty_list":"Search",
+"Please type the order number to search":"Please type the order number to search",
+"Please enter any order number to search_tost":"Please enter any order number to search",
+"settings_use_label":"Registered Mobile",
+
+
+
+
+
+
+
+
+    
+
+
+"Select_Service":"Select the service",
+"Sub_Category":"Sub Category",
+
+
+"Please_add_description":"Please add description",
+
+"Enter_The_OTP":"Enter The OTP",
+
+
+
+
+"I forgot my password":"I forgot my password",
+"Register_button_title":"Register",
+"Login_button_title":"Login",
+"Password_placeholder":"Password",
+"Mobile Number_placeholder":"Mobile Number",
+"change_country_button_in_login":"change",
+"No internet connection !":"No internet connection !",
+"Please enter the mobile number":"Please enter the mobile number",
+"Please enter the password":"Please enter the password",
+"Send OTP_button_in_forgot_password":"Send OTP",
+"Mobile Number_in_forgot_password":"Mobile Number",
+"Please enter the Registred Mobile Number then you will get an OTP code to verify then you can reset your password":"Please enter the Registred Mobile Number then you will get an OTP code to verify then you can reset your password",
+"Mobile Number_inner_title":"Mobile Number",
+"Chnage_country_in_forgot_password":"Chnage",
+"Please enter the mobile number for your account":"Please enter the mobile number for your account",
+"Verify_otp_button":"Verify",
+"OTP_placeholder_for_forgot_password":"OTP",
+"OTP_verify_inner_title":"OTP",
+"Please enter the OTP":"Please enter the OTP",
+"Save_button_for_change_password":"Save",
+"Conform Password_placeholder":"Conform Password",
+"Password_palceorder_for_change":"Password",
+"Please enter the New password then you can login by using the new password":"Please enter the New password then you can login by using the new password",
+"New Password_inner_title":"New Password",
+"Password should be same":"Password should be same",
+"Please enter the Password_for_change_password":"Please enter the Password",
+"NEXT_button_on_register":"NEXT",
+"Company_tyep_in_register":"Company",
+"Individual_tyep_in_register":"Individual",
+"Password_placeholder_in_register":"Password",
+"Service Provider Name (Arabic) in_register":"Service Provider Name (Arabic)",
+"Service Provider Name in_register":"Service Provider Name",
+"Mobile Number_in_register":"Mobile Number",
+"Chanage_country_in_register":"Chanage",
+"REGISTER_title":"REGISTER",
+"Please enter a valid mobile number":"Please enter a valid mobile number",
+"Please enter arabic name":"Please enter arabic name",
+"Please password mor than 4 charater_in_register":"Please password mor than 4 charater",
+"Please enter name_in_register":"Please enter name",
+"Please wait we are setting your account":"Please wait we are setting your account",
+"Registring..":"Registring..",
+"Verify_on_register_service_choose":"Verify",
+"OTP_on_service_choose":"OTP",
+"Please enter the proper OTP":"Please enter the proper OTP",
+"OTP_on_servie_choose_screen":"OTP",
+"NEXT_on_register_screen":"NEXT",
+"Select the services which you can provide the service to the customers":"Select the services which you can provide the service to the customers",
+"Choose the Service":"Choose the Service",
+"ID Prof":"ID Prof",
+"Profile/Logo":"Profile/Logo",
+"Please upload your photo and id card photo both back and frend side to verify":"Please upload your photo and id card photo both back and frend side to verify",
+"Upload Photos":"Upload Photos",
+"SERVICES_navigation_title":"SERVICES",
+"Use Gallery":"Use Gallery",
+"Use Camera":"Use Camera",
+"Select the image source":"Select the image source",
+"Your session expired please login again":"Your session expired please login again",
+"Imgae Upload Failed !!! Try Again..":"Imgae Upload Failed !!! Try Again..",
+"Please select atleast one service to serve":"Please select atleast one service to serve",
+"Please upload ID Prof photos":"Please upload ID Prof photos",
+"Please upload Profile or Compani logo":"Please upload Profile or Compani logo",
+"Image file size maximum allowed is 4 MB!!! Selected image size more than 1MB":"Image file size maximum allowed is 4 MB!!! Selected image size more than 1MB",
+"We dont have any order in this loaction":"We dont have any order in this loaction",
+"no result":"No Result",
+"Retry or Enable GPS":"Retry or Enable GPS",
+"Phone GPS Not Enabled ,You have to Enable the GPS for our App":"Phone GPS Not Enabled ,You have to Enable the GPS for our App",
+"GPS Not Found":"GPS Not Found",
+"Retry or Enable Location":"Retry or Enable Location",
+"Location Not Enabled ,You have to Enable Location for our App":"Location Not Enabled ,You have to Enable Location for our App",
+"No Location":"No Location",
+"We are featching your location to show the near by services":"We are featching your location to show the near by services",
+"Loading Your Location":"Loading Your Location",
+"New Orders":"New Orders",
+"please on the gps of the phone_tost":"please on the gps of the phone",
+"Without the loaction you can't continue_tost":"Without the loaction you can't continue",
+"MAKE AN OFFER_button_title":"MAKE AN OFFER",
+"Location will show only after customer accepting your offer":"Location will show only after customer accepting your offer",
+"Location Hiden":"Location Hiden",
+"UPLOADED FILES":"UPLOADED FILES",
+"SCHEDULE":"SCHEDULE",
+"SHOW ON MAP":"SHOW ON MAP",
+"DROPPOFF":"DROPPOFF",
+"PICKUP":"PICKUP",
+"Transilate":"Transilate",
+"Order Number":"Order Number",
+"No Data title_list_empty":"No Data",
+"Upto now you didint create any offers offer_list_empty":"Upto now you didint create any offers",
+"All_Offer_List_title":"All",
+"Completed_Offer_List_title":"Completed",
+"Accepted_Offer_List_title":"Accepted",
+"My Offers_page_title":"My Offers",
+"Warranty":"Warranty",
+
+
+"NO WARRANTY __offer_label_for_estTime":"NO WARRANTY",
+
+"Free":"Free",
+"Visit Cost":"Visit Cost",
+"Offer Price":"Offer Price",
+"Est.Time":"Est.Time",
+"CREATED _order_label":"CREATED",
+"ACCEPTED _order_label":"ACCEPTED",
+"COMPLETED _order_label":"COMPLETED",
+"You dont have any chat history":"You dont have any chat history",
+"No History":"No History",
+"Chats_page_title":"Chats",
+
+"My Service_menu":"My Service",
+"My Gallery_menu":"My Gallery",
+"Total Service_profile":"Total Service",
+"Rating not added_profile":"Rating not added",
+"Profile_page_title":"Profile",
+"Review not added to your profile":"Review not added to your profile",
+"No Data for_review_empty_title":"No Data",
+"Reviews_page_title":"Reviews",
+
+"New Photo_gallery":"New Photo",
+"camera permission not allowed ! can we open the setting to allow the camera permission ?":"camera permission not allowed ! can we open the setting to allow the camera permission ?",
+"camera permission not allowed ! can we open the setting to allow the camera permission ? Yes":"Yes",
+"camera permission not allowed ! can we open the setting to allow the camera permission ? No":"No",
+"please allow permission to the camera":"please allow permission to the camera",
+"You can uplaod previews work photos then the customer can see your work details,then you will get lots of offers":"You can uplaod previews work photos then the customer can see your work details,then you will get lots of offers",
+"Work Gallery_page_title":"Work Gallery",
+"Are you sure delete this image ?":"Are you sure delete this image ?",
+"Are you sure delete this image ? Yes":"Yes",
+"Are you sure delete this image ? No":"No",
+"Service List_page_title":"Service List",
+"Are you sure unsubscribe ?":"Are you sure unsubscribe ?",
+"Are you sure unsubscribe ? Yes":"Yes",
+"Are you sure unsubscribe ? No":"No",
+"Are you sure unsubscribe the service ? then you will loss the mony":"Are you sure unsubscribe the service ? then you will loss the mony",
+"Are you sure remove this service ?":"Are you sure remove this service ?",
+"Are you sure remove this service ? Yes":"Yes",
+"Are you sure remove this service ? No":"No",
+"are you sure to add this service ?":"are you sure to add this service ?",
+"Expaire on":"Expaire on",
+"SEND_main_button__offer_page":"SEND",
+"Describe Offer Details __offer_page":"Describe Offer Details",
+"Offer details __offer_page":"Offer details",
+"Visit Cost __offer_page":"Visit Cost",
+"Visit Cost (Optional) __offer_page":"Visit Cost (Optional)",
+"Warranty __offer_page":"Warranty",
+"Warranty ( Optional ) __offer_page":"Warranty ( Optional )",
+"Estimated Time __offer_page":"Estimated Time",
+"Estimated time to reach the customer __offer_page":"Estimated time to reach the customer",
+"Final Price _placeholder __offer_page":"Final Price",
+"Final Price __offer_page":"Final Price",
+"No,I want to vist customer first __offer_page":"No,I want to vist customer first",
+"Yes,Final Price __offer_page":"Yes,Final Price",
+"what kind of offer you can provide ? __offer_page":"what kind of offer you can provide ?",
+"Please enter the offer description __offer_page":"Please enter the offer description",
+"Please enter the Estimate time to reach __offer_page":"Please enter the Estimate time to reach",
+"Please enter the final price you can offer __offer_page":"Please enter the final price you can offer",
+"Are you sure to send the offer to customer ? __offer_page":"Are you sure to send the offer to customer ?",
+"Are you sure to send the offer to customer ? Yes __offer_page":"Yes",
+"Are you sure to send the offer to customer ? No __offer_page":"No",
+
+"Send a message..":"Send a message..",
+"UPDATE_app_Button":"UPDATE",
+"Update_title":"UPDATE",
+"No Internet !!! _title":"No Internet !!!",
+
+
+"Buy Now":"Buy Now",
+"Expired":"Need To Buy Package",
+"Months_For_subscription":"Months"
+
+   
+    
+    
+
+   
+}
